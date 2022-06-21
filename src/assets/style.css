@@ -1,0 +1,19 @@
+body{
+    margin : 0
+}
+
+header{
+    width : 100vw;
+    height : 50px;
+}
+
+main{
+    width : 400px;
+    margin : auto;
+    height : auto;
+    max-height : 74vh;
+}
+
+.list-view-modal{
+    
+}
